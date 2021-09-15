@@ -1,0 +1,25 @@
+{
+  "short_name": "Brak of Corona",
+  "name": "Brak of Corona?!",
+  "icons": [
+    {
+      "src": "covid.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg"
+    },
+    {
+      "src": "covid.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "covid.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
